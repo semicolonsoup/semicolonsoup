@@ -361,7 +361,7 @@ A little ritual: each day has a soup and a coding mantra.
 | Sat | 🥣 Miso | Explore and tinker |
 | Sun | 🍵 Broth | Rest and reflect |
 
-<!--SOUP--> Today's soup: **Tomato**
+<!--SOUP--> Today's soup: **Ramen**
 
 ---
 
